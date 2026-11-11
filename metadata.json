@@ -1,0 +1,6 @@
+{
+  "name": "Scootera Café POS & Management",
+  "description": "Production-ready Coffee Shop POS and Management system for Scootera Café with real-time order entry, thermal receipts, attendance ledger, payroll, inventory, expenses tracking, and audit logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
